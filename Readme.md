@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Yuri Nikolaev](https://up.htmlacademy.ru/htmlcss/28/user/820093).
-* Наставник: `Неизвестно`.
+* Наставник: [Олеся Севостьянова] (https://htmlacademy.ru/profile/id498579).
 
 ---
 
